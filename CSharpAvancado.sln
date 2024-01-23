@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBasic", "LinqBasic\Linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAvancado", "LinqAvancado\LinqAvancado.csproj", "{7272443D-D3AA-430F-9D67-93DAE5640135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{7272443D-D3AA-430F-9D67-93DAE5640135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7272443D-D3AA-430F-9D67-93DAE5640135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7272443D-D3AA-430F-9D67-93DAE5640135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
