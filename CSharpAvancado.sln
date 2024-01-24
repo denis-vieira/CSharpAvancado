@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locks", "Locks\Locks.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interlocked", "Interlocked\Interlocked.csproj", "{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexSemaphore", "MutexSemaphore\MutexSemaphore.csproj", "{B685C9E3-18DC-4C23-AE78-796059755878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B685C9E3-18DC-4C23-AE78-796059755878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B685C9E3-18DC-4C23-AE78-796059755878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B685C9E3-18DC-4C23-AE78-796059755878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B685C9E3-18DC-4C23-AE78-796059755878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
