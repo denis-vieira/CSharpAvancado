@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexSemaphore", "MutexSema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncEvents", "SyncEvents\SyncEvents.csproj", "{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitPulse", "WaitPulse\WaitPulse.csproj", "{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
