@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAvancado", "LinqAvancad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locks", "Locks\Locks.csproj", "{046A2432-A6AA-4399-BEC0-F4EFF1F3973B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interlocked", "Interlocked\Interlocked.csproj", "{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82931FDA-CEB1-4BF5-B067-71A63CBD6D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046A2432-A6AA-4399-BEC0-F4EFF1F3973B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046A2432-A6AA-4399-BEC0-F4EFF1F3973B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046A2432-A6AA-4399-BEC0-F4EFF1F3973B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046A2432-A6AA-4399-BEC0-F4EFF1F3973B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4EEBC3-D4C2-409F-891F-8C008E33C9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
