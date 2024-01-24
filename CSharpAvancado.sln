@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncEvents", "SyncEvents\Sy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitPulse", "WaitPulse\WaitPulse.csproj", "{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRun", "FrogRun\FrogRun.csproj", "{156C8A77-3D6B-4DC4-874B-9F253A0C4F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C26A65C-6A13-4A1B-913C-BC6AC65A8D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156C8A77-3D6B-4DC4-874B-9F253A0C4F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156C8A77-3D6B-4DC4-874B-9F253A0C4F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156C8A77-3D6B-4DC4-874B-9F253A0C4F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156C8A77-3D6B-4DC4-874B-9F253A0C4F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
