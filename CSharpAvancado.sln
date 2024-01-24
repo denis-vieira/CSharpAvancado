@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interlocked", "Interlocked\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexSemaphore", "MutexSemaphore\MutexSemaphore.csproj", "{B685C9E3-18DC-4C23-AE78-796059755878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncEvents", "SyncEvents\SyncEvents.csproj", "{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{B685C9E3-18DC-4C23-AE78-796059755878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B685C9E3-18DC-4C23-AE78-796059755878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B685C9E3-18DC-4C23-AE78-796059755878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5801AF5-468D-46A9-81A0-D2CA6D7C35BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
